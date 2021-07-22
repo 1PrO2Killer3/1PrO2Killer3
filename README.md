@@ -1,8 +1,8 @@
-Thank you for downloading the Surviv Cheat Injector by IceHacks.
+Thank you for downloading the MTal CheaT.
 
 ## Installation
 
-How to install IceHacks:
+How to install MTal Cheat:
 
 1. Extract this `ZIP` file into a folder.
 2. Open Chrome\*, and enter "chrome://extensions" in the address bar, or get to extensions via settings.
